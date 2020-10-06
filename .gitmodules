@@ -1,0 +1,9 @@
+[submodule "nightmare-software"]
+	path = nightmare-software
+	url = https://github.com/nikisalli/nightmare-software.git
+[submodule "nightmare-hardware"]
+	path = nightmare-hardware
+	url = https://github.com/nikisalli/nightmare-hardware.git
+[submodule "nightmare-firmware"]
+	path = nightmare-firmware
+	url = https://github.com/nikisalli/nightmare-firmware.git
